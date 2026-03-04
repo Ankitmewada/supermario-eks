@@ -113,8 +113,7 @@ kubectl version --client
 aws configure
 ```
 > Enter your **Access Key**, **Secret Key**, region: `us-east-1`, output: `json`
-Access key ID: AKIAZKHV7B2F43UEFYQF
-Secret access key: 2jnjn6H7mVExgucRjC/FXTfkmp8s/CbfXgwFeAIf
+
 
 ---
 
